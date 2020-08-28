@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!readme.md
+
+!Hardware
+!Hardware/Project_CC1101
+!Hardware/Project_CC1101/**
+
+!Software
+!Software/CFinalterm_PMidterm
+!Software/CFinalterm_PMidterm/**
